@@ -1,2 +1,8 @@
 # video_storage_server
-MooTube Video Storage Server
+
+MooTube Video Encoding Server
+
+# Defendancy
+
+- fastapi
+- uvicorn
